@@ -2,6 +2,7 @@
 ########################################################################
 # VSC Fix Marketplace
 # Copyright (C) 2021-2025, Animesh Das <jobs4ani@gmail.com>.
+# GNU Public Licence 3
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
